@@ -1,1 +1,1 @@
-{ "versao": "1.0.103", "arquivo": "pacotes/1.0.103.zip", "sha256": "f118d31be1dccf83a722b3a242cd9f3e89bc4969f62a2fa38e078ce4b54a6665", "nativo_minimo": "1.0.72", "notas": "Cartão de viagem igual na Gestão e no motorista.", "publicado_em": "2026-10-23T20:41:09Z" }
+{ "versao": "1.0.104", "arquivo": "pacotes/1.0.104.zip", "sha256": "1cf76c801c8a14d58cf51989e7bbcd5288dc9cdcd8e12fd721849fafbb472806", "nativo_minimo": "1.0.72", "notas": "Correção do cabeçalho da conversa.", "publicado_em": "2026-10-23T20:46:35Z" }
