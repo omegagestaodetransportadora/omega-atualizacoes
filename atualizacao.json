@@ -1,1 +1,1 @@
-{ "versao": "1.0.101", "arquivo": "pacotes/1.0.101.zip", "sha256": "56c317fea61f61af9f5664335531d562780a80b2deacf2e723d7eb2a0d856910", "nativo_minimo": "1.0.72", "notas": "Botão verde do próximo passo não fica mais atrás do microfone.", "publicado_em": "2026-10-23T19:54:24Z" }
+{ "versao": "1.0.102", "arquivo": "pacotes/1.0.102.zip", "sha256": "5c95ccbe38241c3fa74fa5b4219c784adab0da0b91ce7148f6c8744496df5922", "nativo_minimo": "1.0.72", "notas": "Histórico: parcelas do cartão no mês do vencimento.", "publicado_em": "2026-10-23T20:00:46Z" }
