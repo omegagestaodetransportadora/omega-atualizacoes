@@ -1,1 +1,1 @@
-{ "versao": "1.0.98", "arquivo": "pacotes/1.0.98.zip", "sha256": "8b40a64b481edadefb2c28f774262c0c450dfd1c69e51628ba20191bfc7dfe79", "nativo_minimo": "1.0.72", "notas": "", "publicado_em": "2026-10-22T18:31:28Z" }
+{ "versao": "1.0.99", "arquivo": "pacotes/1.0.99.zip", "sha256": "1a57ab558f2166a57f42b8d5a1ab5d8e99efa5de23d7b1de81b95185ed6a22ba", "nativo_minimo": "1.0.72", "notas": "Cartão de crédito: compras vão para a fatura e só saem do caixa quando a fatura é paga.", "publicado_em": "2026-10-23T19:14:17Z" }
