@@ -1,1 +1,1 @@
-{ "versao": "1.0.102", "arquivo": "pacotes/1.0.102.zip", "sha256": "5c95ccbe38241c3fa74fa5b4219c784adab0da0b91ce7148f6c8744496df5922", "nativo_minimo": "1.0.72", "notas": "Histórico: parcelas do cartão no mês do vencimento.", "publicado_em": "2026-10-23T20:00:46Z" }
+{ "versao": "1.0.103", "arquivo": "pacotes/1.0.103.zip", "sha256": "f118d31be1dccf83a722b3a242cd9f3e89bc4969f62a2fa38e078ce4b54a6665", "nativo_minimo": "1.0.72", "notas": "Cartão de viagem igual na Gestão e no motorista.", "publicado_em": "2026-10-23T20:41:09Z" }
