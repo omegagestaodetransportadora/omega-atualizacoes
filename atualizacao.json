@@ -1,1 +1,1 @@
-{ "versao": "1.0.100", "arquivo": "pacotes/1.0.100.zip", "sha256": "710a19cc37c6db158ef71e66ad980a1352e92493178c1fa7ac158fef0937e753", "nativo_minimo": "1.0.72", "notas": "Topo mostra o dinheiro no banco; Pessoal negativo vira dívida com a transportadora.", "publicado_em": "2026-10-23T19:38:55Z" }
+{ "versao": "1.0.101", "arquivo": "pacotes/1.0.101.zip", "sha256": "56c317fea61f61af9f5664335531d562780a80b2deacf2e723d7eb2a0d856910", "nativo_minimo": "1.0.72", "notas": "Botão verde do próximo passo não fica mais atrás do microfone.", "publicado_em": "2026-10-23T19:54:24Z" }
