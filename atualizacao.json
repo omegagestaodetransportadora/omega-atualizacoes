@@ -1,1 +1,1 @@
-{ "versao": "1.0.108", "arquivo": "pacotes/1.0.108.zip", "sha256": "0c76732b739584b00348b92c35e213ae7c9d8bc4514756f2c1b84374cc765bca", "nativo_minimo": "1.0.72", "notas": "Motoristas com etapa da viagem, acerto e números do mês; ficha com quadradinhos.", "publicado_em": "2026-10-23T22:21:12Z" }
+{ "versao": "1.0.109", "arquivo": "pacotes/1.0.109.zip", "sha256": "9320e650cf6c98d714463259baecc7986c7545370fb9f9acf4e7edda94911ea3", "nativo_minimo": "1.0.72", "notas": "Pessoal com quadradinhos, lançamentos por dia e barra fixa de lançar.", "publicado_em": "2026-10-24T03:02:41Z" }
