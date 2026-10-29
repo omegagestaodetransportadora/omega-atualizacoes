@@ -1,1 +1,1 @@
-{ "versao": "1.0.126", "arquivo": "pacotes/1.0.126.zip", "sha256": "a38f630466844ccfa8defe757b788ea7c00af494471467f613c978a564e7fa22", "nativo_minimo": "1.0.72", "notas": "", "publicado_em": "2026-10-29T16:26:31Z" }
+{ "versao": "1.0.127", "arquivo": "pacotes/1.0.127.zip", "sha256": "eb2fc142a5892ecd801c882acdac7fe4ef4ce07f5bf70e57ae635689ede54bae", "nativo_minimo": "1.0.72", "notas": "Corte do áudio sem comer a fala; Excluir no gasto pessoal pago pela empresa", "publicado_em": "2026-10-29T21:22:28Z" }
