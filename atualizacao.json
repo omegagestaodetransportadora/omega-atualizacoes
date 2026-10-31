@@ -1,1 +1,1 @@
-{ "versao": "1.0.128", "arquivo": "pacotes/1.0.128.zip", "sha256": "d031634fc42597d805c721274527fee95a51b649645a58c4e0c94cc3e7465814", "nativo_minimo": "1.0.72", "notas": "Corrige o app que não abria; ordem do extrato; comissões no Pessoal", "publicado_em": "2026-10-30T01:08:25Z" }
+{ "versao": "1.0.129", "arquivo": "pacotes/1.0.129.zip", "sha256": "dea22dd18772a09d6d2e6b9984ce42820932fedede4eb7759f9e23246625acda", "nativo_minimo": "1.0.72", "notas": "Planilha mostra o Pix para a Gabi; correção por voz pede Confirmar", "publicado_em": "2026-10-31T15:34:38Z" }
