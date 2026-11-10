@@ -1,1 +1,1 @@
-{ "versao": "1.0.142", "arquivo": "pacotes/1.0.142.zip", "sha256": "e23eff0746345b2d91b81da0c4ea2e4fb7e1e4819ee5554328e498b5aa409e14", "nativo_minimo": "1.0.72", "notas": "", "publicado_em": "2026-11-08T13:18:53Z" }
+{ "versao": "1.0.144", "arquivo": "pacotes/1.0.144.zip", "sha256": "fffc5fcc75fe6b74714e1f2717bc40d782d21fe7de75fd8a2c9b6e9a528d7bc4", "nativo_minimo": "1.0.72", "notas": "Segurança e app mais rápido", "publicado_em": "2026-11-10T13:28:16Z" }
