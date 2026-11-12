@@ -1,1 +1,1 @@
-{ "versao": "1.0.148", "arquivo": "pacotes/1.0.148.zip", "sha256": "f41cd042e642756589470d4ac928fa3cdaaf297b40bee9154b17f684fbf3cbc5", "nativo_minimo": "1.0.72", "notas": "", "publicado_em": "2026-11-10T19:28:03Z" }
+{ "versao": "1.0.150", "arquivo": "pacotes/1.0.150.zip", "sha256": "95d47a7004b915b12b7048b23dddf55cebbcd0df2e5e2776e7c9f70147f5a093", "nativo_minimo": "1.0.72", "notas": "Conversa: correção de data mais clara", "publicado_em": "2026-11-12T13:25:00Z" }
