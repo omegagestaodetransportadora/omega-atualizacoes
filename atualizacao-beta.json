@@ -1,1 +1,1 @@
-{ "versao": "1.0.162", "arquivo": "pacotes/1.0.162.zip", "sha256": "dd83ca954e5c3d142cc853f1a5b4d095531e0056da35d92efad8fdd50973306f", "nativo_minimo": "1.0.72", "notas": "Retirada do dono no lugar de dívida; lucro do mês sem gastos pessoais", "publicado_em": "2026-11-23T22:31:59Z" }
+{ "versao": "1.0.163", "arquivo": "pacotes/1.0.163.zip", "sha256": "f086e0e58deca4abe7ca0c8d723fb23228bbd62e0a3030a4b7b77047e16442c2", "nativo_minimo": "1.0.72", "notas": "DRE contábil nos relatórios e na viagem; ticket da carga não encerra a viagem", "publicado_em": "2026-11-23T23:08:41Z" }
