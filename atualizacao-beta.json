@@ -1,1 +1,1 @@
-{ "versao": "1.0.176", "arquivo": "pacotes/1.0.176.zip", "sha256": "2722732bfd7118a0b1d44bf357776d9c5ee1088f1cf7d0825ab2238b8329adda", "nativo_minimo": "1.0.72", "notas": "Correção da tela de Gestão (juros escritos numa parcela paga); editor sempre com o valor guardado; falhas aparecem como indisponível, nunca como zero", "publicado_em": "2026-11-26T17:53:36Z" }
+{ "versao": "1.0.177", "arquivo": "pacotes/1.0.177.zip", "sha256": "ed1545e8672fb481cd724d695c085a8ec319164afdd1aa327750608a771e6e66", "nativo_minimo": "1.0.72", "notas": "", "publicado_em": "2026-11-26T20:04:30Z" }
