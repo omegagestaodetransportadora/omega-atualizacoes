@@ -1,1 +1,1 @@
-{ "versao": "1.0.178", "arquivo": "pacotes/1.0.178.zip", "sha256": "0fc22ddcf605195ab407e46c098522bdbd19a87241276e368d2293106bb7ddb3", "nativo_minimo": "1.0.72", "notas": "", "publicado_em": "2026-11-26T20:58:40Z" }
+{ "versao": "1.0.180", "arquivo": "pacotes/1.0.180.zip", "sha256": "30c4e8676429adb5c364b5ff1c84115b11b270d09ce9899a8a9e70aa37cdc07f", "nativo_minimo": "1.0.72", "notas": "Voz: hora certa ('agora' = hora da fala) e Corrigir com todos os campos; crédito no posto só no mesmo posto", "publicado_em": "2026-11-28T00:00:39Z" }
